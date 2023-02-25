@@ -3,7 +3,10 @@ Django kibru (kibruy Admin)
 
 
 Installation
-pip install django-kibru
+
+pip install kibru
+ 
+
 
 Features
 Search bar for any given model admin
@@ -19,3 +22,7 @@ Login
 Dashboard 
 <img width="957" alt="Dashboards" src="https://user-images.githubusercontent.com/87245699/221366429-c52dd816-272f-4c7b-b559-6db27edcce1a.png">
 
+
+
+Package  Link
+https://pypi.org/project/kibru/
