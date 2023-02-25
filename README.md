@@ -3,6 +3,7 @@ Django kibru (kibruy Admin)
 
 
 Installation
+
 pip install kibru
  
 
