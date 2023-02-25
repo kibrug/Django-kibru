@@ -1,5 +1,6 @@
 # Django-kibru
 Django kibru (kibruy Admin)
+https://pypi.org/project/kibru/
 
 
 Installation
