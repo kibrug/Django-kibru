@@ -3,7 +3,7 @@ Django kibru (kibruy Admin)
 
 
 Installation
-pip install kibru-jazzmin
+pip install django-kibru
 
 Features
 Search bar for any given model admin
